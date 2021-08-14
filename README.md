@@ -1,3 +1,3 @@
 Arun - Performance Engineer 
-Intereset in Node.js JavaEE Spring-Boot stack Performance Optimzation , Cloud apps performance , Linix
+Intereset in Node.js JavaEE Spring-Boot stack Performance Optimzation , Cloud apps performance , Linux Kernel adn security
 
