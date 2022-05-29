@@ -1,2 +1,3 @@
+a nwe line added to file-3
 a new update
 new 3 .txt
